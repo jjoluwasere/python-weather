@@ -26,6 +26,7 @@ You can search a city, see the current temperature, weather conditions, and get 
 
 ## Technologies Used
 <br>
+
 -  Python 3
 -  Flask
 -  Requests (API calls)
