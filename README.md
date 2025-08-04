@@ -51,12 +51,14 @@ pip install -r requirements.txt
 
 ## Get an OpenWeatherMap API Key
 <br>
+
 -  Go to https://openweathermap.org/api
 -  Sign up and get a free API key
 <br>
 
 ## Create a .env file
 <br>
+
 -  Create a .env file in the project root and add the line:
 -  API_KEY=your_openweathermap_api_key
 <br>
