@@ -21,9 +21,11 @@ You can search a city, see the current temperature, weather conditions, and get 
 -  Easy to deploy on [Render](https://render.com)
 
 ---
+<br>
+<br>
 
 ## Technologies Used
-
+<br>
 - Python 3
 - Flask
 - Requests (API calls)
@@ -31,26 +33,31 @@ You can search a city, see the current temperature, weather conditions, and get 
 - OpenWeatherMap API
 - HTML5 & CSS3
 
+<br>
 
 ## Set Up a Virtual Environment (Optional but Recommended)
 
 
 python -m venv venv
 source venv/bin/activate  # (macOS/Linux)
+<br>
 
 ## Install dependencies
+<br>
 
 pip install -r requirements.txt
+<br>
 
 ## Get an OpenWeatherMap API Key
 
 - Go to https://openweathermap.org/api
 - Sign up and get a free API key
+<br>
 
 ## Create a .env file
 - Create a .env file in the project root and add the line:
 - API_KEY=your_openweathermap_api_key
-
+<br>
 ---
 
 ### ☁️ Deploying to Render
