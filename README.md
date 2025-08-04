@@ -36,7 +36,7 @@ You can search a city, see the current temperature, weather conditions, and get 
 <br>
 
 ## Set Up a Virtual Environment (Optional but Recommended)
-
+<br>
 
 python -m venv venv
 source venv/bin/activate  # (macOS/Linux)
@@ -49,19 +49,21 @@ pip install -r requirements.txt
 <br>
 
 ## Get an OpenWeatherMap API Key
-
+<br>
 - Go to https://openweathermap.org/api
 - Sign up and get a free API key
 <br>
 
 ## Create a .env file
+<br>
 - Create a .env file in the project root and add the line:
 - API_KEY=your_openweathermap_api_key
 <br>
+
 ---
 
-### ☁️ Deploying to Render
-
+## Deploying to Render
+<br>
 You can deploy this app for free using <a href="https://render.com" target="_blank">Render</a>:
 
 <ol>
